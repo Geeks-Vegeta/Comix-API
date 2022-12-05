@@ -29,6 +29,23 @@ python -m app
 
 **For Contribution** 👇
 
-Fork this repo first and then make some changes
-after that create a new PR (pull request) from your branch to this branch.
+These steps will guide you through contributing to this project:
+
+* Create an issue to discuss about the changes you want to do before starting to code.
+
+* Fork the repo
+
+* Clone it and install dependencies
+
+```
+  git clone https://github.com/Geeks-Vegeta/Comix-API.git
+  pip install -r requirements.txt
+```
+
+* Make changes
+
+* Create tests
+
+Send a GitHub Pull Request with a clear list of what you've done (read more about pull requests). Make sure all of your commits are atomic (one feature per commit).
+
 Your help will appreciated 😃
