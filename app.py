@@ -8,9 +8,7 @@ from routes import nhentai_route, xhamster_route,\
 
 description = '''
 
-This is an example of blog api
-For NextJs Blogging Application
-💋
+This is an 18+ API UI mainly for downloading 18+ (hentai, manga, manhwa) comics 💋
 
 '''
 
